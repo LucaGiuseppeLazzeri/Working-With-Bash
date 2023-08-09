@@ -1,2 +1,0 @@
-cd /etc
-ls *.conf
