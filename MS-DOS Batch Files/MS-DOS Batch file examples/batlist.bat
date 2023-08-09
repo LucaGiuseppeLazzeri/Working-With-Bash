@@ -1,0 +1,17 @@
+@echo off
+echo =====echoout.bat
+type echoout.bat
+echo =====exelist.bat
+type exelist.bat
+echo =====exelist1a.bat
+type exelist1a.bat
+echo =====exelist1b.bat
+type exelist1b.bat
+echo =====exelist2.bat
+type exelist2.bat
+echo =====exelist3.bat
+type exelist3.bat
+echo =====exelist4.bat
+type exelist4.bat
+echo =====multlist.bat
+type multlist.bat

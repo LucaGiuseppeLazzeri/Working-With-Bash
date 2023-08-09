@@ -1,0 +1,18 @@
+man useradd
+- c - comment, leaves a short description of the login
+- d - the new user will be created using the home directory
+- e - This provides a expiry date for which the user account created will be locked o on
+- p  - defines the passsword for the user account 
+- default home directory - /Users/[users account]
+
+Man passwd
+- k - indicate password change should be preformed for expired passwords
+- l - this allows for password to be updated in the given location of the chosen directory
+- u - this option specifies the user name when authenticating to the directory node
+- d delete a users password
+- MD5 algorithm password encryption
+Password lengths, warnings, encyptyed passwords
+
+The -r deletes all files in home directory alongside the user
+
+-----------------
